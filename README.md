@@ -30,9 +30,9 @@ Question 3: By default do django signals run in the same database transaction as
     
 ## Screenshots
 
-![Screenshot 1](https://github.com/Khushi-Bhatia/ResumeProcessor/blob/master/Screenshots/Screenshot%201.jpg)
+![Screenshot 1](https://github.com/Khushi-Bhatia/AccuKnox/blob/master/Signals/output.jpg)
 
-![class Rectangle output- ](https://github.com/Khushi-Bhatia/ResumeProcessor/blob/master/Screenshots/Screenshot%201.jpg)
+![class Rectangle output- ](https://github.com/Khushi-Bhatia/AccuKnox/blob/master/Signals/rectangleOutput.jpg)
 
 
 
